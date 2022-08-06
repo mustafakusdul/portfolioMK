@@ -1,2 +1,2 @@
 # portfolioMK
-basic portfoli page with bootstrap 5
+basic portfolio page with bootstrap 5
